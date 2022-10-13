@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carol Yin @carol-zihanyin
-- 👀 I’m interested in Economics and Natural Language Processing
+- 👀 I’m interested in Economics and Natural Language Processing with focus on consumer protetcion, household finance and financial contracts
 - 🌱 I’m currently using and learning Stata, Python, R, Git
-- 💞️ I’m working in the field of consumer protetcion, household finance and financial contracts
+- 💞️ I’m currently working on my chapter of pricing and collecting data
 - 📫 Have a lovely day!
 
 <!---
